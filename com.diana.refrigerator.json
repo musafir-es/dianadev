@@ -3,12 +3,12 @@
 
 // untuk merubah menjadi mode mp3 - panggil link ini via offline / json - "file:///android_asset/music/playlist.html"
 // pastikan mode offline mp3 true jika merubah ke mode mp3
-// https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html
+// 
 
 "HOMEURL" : "https://refrigeratorerrorcode.blogspot.com",
 
 // testing server json yang dipakai
-"JSON_POPUP_WAIT" : "Server Ready . . . v20j14",
+"JSON_POPUP_WAIT" : "Loading...",
 
 // Redirect ke apps lain 
 "REDIRECT_TRAFFIC" : false,
@@ -46,12 +46,12 @@
 "ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
 "ADMOB_NATIV" : "ca-app-pub-3940256099942544/2247696110",
 
-"HPK_ALIENDROID" : "kuota data 30gb",
-"HPK_ADMOB1" : "Kuota Data",
-"HPK_ADMOB2" : "Bank Jenius",
-"HPK_ADMOB3" : "Simpati",
-"HPK_ADMOB4" : "Telkomsel",
-"HPK_ADMOB5" : "Donasi",
+"HPK_ALIENDROID" : "ebac washing machine",
+"HPK_ADMOB1": "drumi",
+"HPK_ADMOB2": "samsung ww80j5555fx",
+"HPK_ADMOB3": "best large capacity top load washer",
+"HPK_ADMOB4": "most reliable top load washing machine",
+"HPK_ADMOB5": "refrigerator",
 
 "FAN_BANNER" : "1397573467303811_1397575060636985",
 "FAN_INTER" : "1397573467303811_1397576200636871",
